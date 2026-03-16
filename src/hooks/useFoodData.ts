@@ -10,7 +10,7 @@ export interface FoodData {
   snack: string[];
 }
 
-const STORAGE_KEY = 'what_to_eat_data_v1';
+const STORAGE_KEY = 'what_to_eat_data_v2';
 
 export function useFoodData() {
   const [foodData, setFoodData] = useState<FoodData>(() => {
