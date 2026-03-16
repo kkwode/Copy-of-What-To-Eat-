@@ -1,0 +1,5 @@
+{
+  "name": "今天吃什么 (What To Eat)",
+  "description": "一个趣味随机抽选菜品的 Web 应用，支持自定义菜单和时段切换。",
+  "requestFramePermissions": []
+}
